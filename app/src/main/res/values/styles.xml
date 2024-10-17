@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:app="http://schemas.android.com/apk/res-auto">
+    <style name="CustomTextView12Reguler" parent="Widget.AppCompat.TextView">
+        <item name="android:textSize">12sp</item>
+        <item name="fontFamily">@font/poppins_regular</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <!-- Theme with custom Toolbar -->
+
+    <style name="CustomToolbar" parent="Widget.AppCompat.ActionBar">
+        <item name="title">@string/app_name</item>
+        <item name="titleTextColor">@color/white</item>
+        <item name="android:fontFamily">@font/poppins_bold</item>
+    </style>
+</resources>

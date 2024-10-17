@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyTabLayout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="register">REGISTER</string>
+    <string name="login">LOGIN</string>
+    <string name="alredy_have_an_account">Alredy Have an Account?</string>
+    <string name="username"><![CDATA[<username>]]></string>
+    <string name="welcome_back">welcome back,</string>
+</resources>
